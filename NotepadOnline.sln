@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadOnline.Domain", "NotepadOnline.Domain\NotepadOnline.Domain.csproj", "{593CF5B5-3A66-4F05-8957-890FFF07322D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadOnline.Application", "NotepadOnline.Application\NotepadOnline.Application.csproj", "{91184503-5CB6-4D1F-B262-D1A701E12AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadOnline.API", "NotepadOnline.API\NotepadOnline.API.csproj", "{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593CF5B5-3A66-4F05-8957-890FFF07322D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593CF5B5-3A66-4F05-8957-890FFF07322D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593CF5B5-3A66-4F05-8957-890FFF07322D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593CF5B5-3A66-4F05-8957-890FFF07322D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91184503-5CB6-4D1F-B262-D1A701E12AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91184503-5CB6-4D1F-B262-D1A701E12AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91184503-5CB6-4D1F-B262-D1A701E12AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91184503-5CB6-4D1F-B262-D1A701E12AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
