@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadOnline.Application",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadOnline.API", "NotepadOnline.API\NotepadOnline.API.csproj", "{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadOnline.Infrastructure", "NotepadOnline.Infrastructure\NotepadOnline.Infrastructure.csproj", "{20B17796-A433-428A-AB2B-504E7DB8A18F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{752AA707-8740-4824-AB5A-DAE1B1BB3DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B17796-A433-428A-AB2B-504E7DB8A18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B17796-A433-428A-AB2B-504E7DB8A18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B17796-A433-428A-AB2B-504E7DB8A18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B17796-A433-428A-AB2B-504E7DB8A18F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
